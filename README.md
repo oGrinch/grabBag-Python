@@ -1,49 +1,50 @@
 # 📚 Python Grab Bag
 
-[Caso prefira ler em Português 🇧🇷](README.ptbr.md)
+[Prefer to read in Portuguese? 🇧🇷](README.ptbr.md)
 
-This repository serves to organize and store all my code, exercises, and small projects that I'm developing while learning Python.
-
----
-
-## 🎯 Objective
-
-My main goal with this "Python Grab Bag" is to:
-
-* **Deepen my Python knowledge** by practicing with examples and projects.
-* **Have a centralized location** for all my documented learning and code.
-* **Build a portfolio** of small projects to showcase my skills.
-* **Document my overall study progress**.
+Welcome to my Python Grab Bag — a place where I collect everything I’m learning about Python, from exercises to mini projects.
 
 ---
 
-## 🚀 How to Use/Run Projects
+## 🎯 Purpose
 
-To run the projects in this repository, you'll need **Python installed**, preferably its latest version.
+This repo exists so I can:
 
----
-
-## 🌱 My Current Projects
-
-Here are some of the projects I'm working on or have already finished:
-
-* **Simple Interactive Calculator**: A basic calculator for arithmetic operations.
-(More coming soon)
+- **Get better at Python** by practicing with real examples and projects  
+- **Keep everything organized** in one place as I learn  
+- **Build a portfolio** of small projects to show what I can do  
+- **Track my progress** as I grow as a developer
 
 ---
 
-## 🤝 Contributions
+## 🚀 Running the Projects
 
-This repository is primarily for my personal learning, but suggestions and feedback are always welcome! If you have any tips or find any errors, feel free to open an *issue* or *pull request*.
+To try out any of the projects here, just make sure you have **Python installed** — ideally the latest version.
+
+---
+
+## 🌱 What I’m Working On
+
+Here are a few things I’ve built or am currently building:
+
+- **Simple Interactive Calculator** – a basic calculator that handles arithmetic operations  
+(More on the way!)
+
+---
+
+## 🤝 Contributing
+
+This repo is mainly for personal learning, but I’m always open to ideas and feedback.  
+If you spot something off or want to suggest an improvement, feel free to open an *issue* or *pull request*.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📬 Contact
+## 📬 Get in Touch
 
-You can find me on GitHub: [oGrinch](https://github.com/oGrinch)
+Find me on GitHub: [oGrinch](https://github.com/oGrinch)
