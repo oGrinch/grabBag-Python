@@ -17,7 +17,7 @@ Meu principal objetivo com este "Grab Bag" é:
 
 ## 🚀 Como Usar/Rodar os Projetos
 
-Para rodar os projetos neste repositório, você vai precisar do **Python instalado**, de preferência em sua versão mais recente.
+Para rodar os projetos neste repositório, você vai precisar do **Python instalado**, de preferência em sua versão mais recente. Costumo usar o VSCode como programa de escolha para editar os códigos.
 
 ---
 
@@ -26,6 +26,7 @@ Para rodar os projetos neste repositório, você vai precisar do **Python instal
 Aqui estão alguns dos projetos que estou trabalhando ou já finalizei:
 
 * **Calculadora Interativa Simples**: Uma calculadora básica para operações aritméticas.
+  * * [Ver código-fonte](projetos/calculadora/main.py)
 (Mais em breve)
 
 ---
