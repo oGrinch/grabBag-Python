@@ -1,6 +1,6 @@
 # 📚 Python Grab Bag
 
-[Português Brasileiro 🇧🇷](README.ptbr.md)
+[Caso prefira ler em Português 🇧🇷](README.ptbr.md)
 
 This repository serves to organize and store all my code, exercises, and small projects that I'm developing while learning Python.
 
