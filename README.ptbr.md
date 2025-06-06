@@ -27,7 +27,7 @@ Aqui estão alguns dos projetos que estou trabalhando ou já finalizei:
 
 * **Calculadora Interativa Simples**: Uma calculadora básica para operações aritméticas.
   * * [Ver código-fonte](projetos/calculadora/main.py)
-(Mais em breve)
+\n(Mais em breve)
 
 ---
 
