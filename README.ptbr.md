@@ -8,10 +8,10 @@ Este repositório serve para organizar e guardar todos os meus códigos, exercí
 
 Meu principal objetivo com este "Grab Bag" é:
 
-* **Aprofundar meus conhecimentos** em Python, praticando com exemplos e projetos.
-* **Ter um local centralizado** para todo o meu aprendizado e códigos devidamente documentados.
-* **Construir um portfólio** de pequenos projetos para demonstrar minhas habilidades.
-* **Documentar meu progresso** em meu estudo em geral.
+* **Aprofundar meus conhecimentos** em Python, praticando com exemplos e projetos
+* **Ter um local centralizado** para todo o meu aprendizado e códigos devidamente documentados
+* **Construir um portfólio** de pequenos projetos para demonstrar minhas habilidades
+* **Documentar meu progresso** em meu estudo em geral
 
 ---
 
@@ -32,7 +32,8 @@ Aqui estão alguns dos projetos que estou trabalhando ou já finalizei:
 
 ## 🤝 Contribuições
 
-Este repositório é principalmente para meu aprendizado pessoal, mas sugestões e feedback são sempre bem-vindos! Se você tiver alguma dica ou encontrar algum erro, não se preocupe em abrir um *issue* ou *pull request*.
+Este repositório é principalmente para meu aprendizado pessoal, mas sugestões e feedback são sempre bem-vindos! 
+Se você tiver alguma dica ou encontrar algum erro, não se preocupe em abrir um *issue* ou *pull request*.
 
 ---
 
