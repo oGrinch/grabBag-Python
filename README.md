@@ -28,7 +28,7 @@ To run the projects in this repository, you'll need **Python installed**, prefer
 Here are some of the projects I'm working on or have already finished:
 
 * **Simple Interactive Calculator**: A basic calculator for arithmetic operations.
-    (More coming soon)
+(More coming soon)
 
 ---
 
