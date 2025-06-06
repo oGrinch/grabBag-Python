@@ -17,7 +17,8 @@ Meu principal objetivo com este "Grab Bag" é:
 
 ## 🚀 Como Usar/Rodar os Projetos
 
-Para rodar os projetos neste repositório, você vai precisar do **Python instalado**, de preferência em sua versão mais recente. Costumo usar o VSCode como programa de escolha para editar os códigos.
+Para rodar os projetos neste repositório, você vai precisar do **Python instalado**, de preferência em sua versão mais recente. 
+Costumo usar o VS Code como programa de escolha para editar os códigos, e os programas listados aqui são compatíveis com ele.
 
 ---
 
