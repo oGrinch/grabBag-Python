@@ -20,6 +20,7 @@ This repo exists so I can:
 ## 🚀 Running the Projects
 
 To try out any of the projects here, just make sure you have **Python installed** — ideally the latest version.
+This repository's projects are primarily developed using VS Code and are fully compatible with its environment.
 
 ---
 
@@ -27,8 +28,9 @@ To try out any of the projects here, just make sure you have **Python installed*
 
 Here are a few things I’ve built or am currently building:
 
-- **Simple Interactive Calculator** – a basic calculator that handles arithmetic operations  
-(More on the way!)
+- **Simple Interactive Calculator** – a basic calculator that handles arithmetic operations
+- - * [View code](projetos/calculadora_interativa/main.py)
+- (More on the way!)
 
 ---
 
