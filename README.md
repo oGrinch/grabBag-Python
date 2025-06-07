@@ -29,8 +29,9 @@ This repository's projects are primarily developed using VS Code and are fully c
 Here are a few things I’ve built or am currently building:
 
 - **Simple Interactive Calculator** – a basic calculator that handles arithmetic operations
-- - * [View code](projetos/calculadora_interativa/main.py)
-- (More on the way!)
+- - [View code](projetos/calculadora_interativa/main.py)
+- **Measurement Converter** - A simple Python program to convert between metric and imperial units.
+- - [View code](projetos/conversor-medidas/main.py)
 
 ---
 
