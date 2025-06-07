@@ -1,6 +1,7 @@
 # 🧮 Calculadora Interativa Simples
 
-Este projeto é uma **calculadora de linha de comando** básica e descomplicada desenvolvida em Python, permitindo que o usuário digite e o programa processe operações aritiméticas básicas, de forma interativa.
+Este projeto é uma **calculadora de linha de comando** básica e descomplicada desenvolvida em Python, 
+permitindo que o usuário digite e o programa processe operações aritiméticas básicas, de forma interativa.
 
 ---
 
