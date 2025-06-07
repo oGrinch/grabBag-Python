@@ -27,8 +27,10 @@ Costumo usar o VS Code como programa de escolha para editar os códigos, e os pr
 Aqui estão alguns dos projetos que estou trabalhando ou já finalizei:
 
 * **Calculadora Interativa Simples**: Uma calculadora básica para operações aritméticas.
-  * * [Ver código-fonte](projetos/calculadora/main.py)  
-* (Mais em breve)
+  * * [Ver código-fonte](projetos/calculadora/main.py)
+- **Conversor de medidas** - Um programa simples para converter medidas entre o sistema métrico e imperial.
+- - [View code](projetos/conversor-medidas/main.py)
+- - - (Mais em breve)
 
 ---
 
