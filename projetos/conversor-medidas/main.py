@@ -1,3 +1,6 @@
+# Importando o módulo time para uso posterior.
+import time
+
 # Funções de conversão, utilizam fórmulas aritméticas
 # básicas para multiplicar, ou dividir pelo valor atribuído.
 def metros_para_km(metros):
@@ -96,5 +99,9 @@ while True:
         print("Por favor, digite um número válido.")
     except Exception as e:
         print(f"Ocorreu um erro inesperado: {e}")
+
+    # Adiciona 1 segundo de delay entre as interações, para
+    # melhor leitura do usuário.
+    time.sleep(1)
 
     print()
