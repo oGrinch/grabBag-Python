@@ -1,3 +1,6 @@
+# Importando o módulo time para uso posterior.
+import time
+
 def calcular(expressao): # Define a expressão 'calcular'.
     try:
         # Verifica se o sinal de igual (=) foi usado pelo usuário na expressão.
@@ -46,6 +49,10 @@ def menu():
       # que foi digitada pelo usuário, e exibe o resultado.
         resultado = calcular(expressao)
         print(f"= {resultado}")
+
+    # Adiciona 1 segundo de delay entre as interações, para
+    # melhor leitura do usuário.
+    time.sleep(1)
 
 # Chama a função 'menu", inciando a calculadora.
 
