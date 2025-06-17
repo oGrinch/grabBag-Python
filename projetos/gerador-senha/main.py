@@ -13,7 +13,8 @@ import random
 # caracteres. A seguir, tratamento de erro, em caso o usuário:
 # digite 0; digite um número negativo; digite um número maior
 # do que o máximo de caracteres permitidos; digite uma letra ou
-# algum outro caractere.
+# algum outro caractere. Inclui também tratamento para erros 
+# inesperados de qualquer espécie.
 def gerar_senha():
     MAX_CARACTERES = 60
     
