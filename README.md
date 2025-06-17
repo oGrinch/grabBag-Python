@@ -32,6 +32,8 @@ Here are a few things I’ve built or am currently building:
 - - [View code](projetos/calculadora_interativa/main.py)
 - **Measurement Converter** - A simple Python program to convert between metric and imperial units.
 - - [View code](projetos/conversor-medidas/main.py)
+- **Simple Random Password Generator** - A basic project that generates random passwords based on user-defined criteria.
+- - [View code](projetos/gerador-senha/main.py)
 - - - (More on the way!)
 
 ---
